@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book id="1">
+        <title>《活着》</title>
+        <author>余华</author>
+        <price>29.99</price>
+    </book>
+    <book id="2">
+        <title>《百年孤独》</title>
+        <author>加布riel·加西亚·马尔克斯</author>
+        <price>39.99</price>
+    </book>
+    <book id="3">
+        <title>《小王子》</title>
+        <author>安东尼·德·圣埃克苏佩里</author>
+        <price>19.99</price>
+    </book>
+</books>
+
